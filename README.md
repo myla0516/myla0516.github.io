@@ -10,4 +10,3 @@ mkinzel@my.waketech.edu
  ## Websites I Recommend
 - [Microsft 265](https://www.office.com/) - Micorsoft 365 is great for receiving and sending out emails.
 - [GitHub](https://github.com) - GitHub is an amazing pltatform for software development.
-- 
